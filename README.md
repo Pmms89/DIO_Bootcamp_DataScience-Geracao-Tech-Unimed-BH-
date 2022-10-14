@@ -1,7 +1,17 @@
-# igital Innovation One (DIO) BootCamp
+# Curso_Python_Pandas_Digital_Innovation
 
-### Geração Tech Unimed-BH - Ciência de Dados
+## First Project Challenge 
 
-Bootcamp challenge results.
+Introduction to data analysis with Python and Pandas
+ 
+ **Assuntos abordados**:
+ - Python Basics
+ - Data Structure
+ - Introduction to Pandas Library
+ - Working with Excel Sheets
+ - Working with Data
+ - Data Visualization
+ - Exploratory Data Analysis
 
-More infos: [DIO](https://www.dio.me/en)
+
+Course by [Fernanda Santos] (https://github.com/Ftspublicidade) based on this [repository](https://github.com/Ftspublicidade/Cusro_Python_Pandas_Digital_Innovation)
