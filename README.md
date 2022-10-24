@@ -4,4 +4,4 @@
 
 Bootcamp challenge results.
 
-More infor: [DIO](https://www.dio.me/en)
+More infos: [DIO](https://www.dio.me/en)
