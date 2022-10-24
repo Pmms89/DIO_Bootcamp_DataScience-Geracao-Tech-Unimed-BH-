@@ -1,6 +1,9 @@
 # IMAGE_PROCESSING_PACKAGE
 
-Description. 
+## Second Project Challenge
+
+Description: 
+
 The package **image_processing** is used to:
 	
 	Processing:
