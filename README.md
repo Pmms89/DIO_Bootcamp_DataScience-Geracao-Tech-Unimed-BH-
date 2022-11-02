@@ -1,5 +1,7 @@
 # Digital Innovation One (DIO) Bootcamp
 
+![DIO logo](https://github.com/Pmms89/DIO_Bootcamp_DataScience-Geracao-Tech-Unimed-BH-/blob/main/1644436653.jpg)
+
 ## Geração Tech Unimed-BH - Ciência de Dados
 
 ### Bootcamp challenge results:
