@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Pmms89/DIO_Bootcamp_DataScience-Geracao-Tech-Unimed-BH-/blob/main/DIO_logo.jpg" alt="DIO Logo"/>
+</p>
+
 # Digital Innovation One (DIO) Bootcamp
 
-![DIO logo](https://github.com/Pmms89/DIO_Bootcamp_DataScience-Geracao-Tech-Unimed-BH-/blob/main/DIO_logo.jpg)
 
 ## Geração Tech Unimed-BH - Ciência de Dados
 
