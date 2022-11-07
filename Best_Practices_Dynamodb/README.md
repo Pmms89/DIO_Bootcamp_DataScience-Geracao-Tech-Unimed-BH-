@@ -86,7 +86,7 @@ aws dynamodb update-table \
 
 **Performing searches**
 
-**- Searching item by artist name:**
+- **Searching item by artist name:**
 
 ```
 aws dynamodb query \
@@ -95,7 +95,7 @@ aws dynamodb query \
     --expression-attribute-values  '{":artist":{"S":"Iron Maiden"}}'
 ```
 
-**- Searching item by artist name and song title:**
+- **Searching item by artist name and song title:**
 
 ```
 aws dynamodb query \
@@ -104,7 +104,7 @@ aws dynamodb query \
     --expression-attribute-values file://keyconditions.json
 ```
 
-**- Searching item by secondary index based on album title:**
+- **Searching item by secondary index based on album title:**
 
 ```
 aws dynamodb query \
@@ -114,7 +114,7 @@ aws dynamodb query \
     --expression-attribute-values  '{":name":{"S":"Fear of the Dark"}}'
 ```
 
-**- Searching item by secondary index based on the artist name and the album title:**
+- **Searching item by secondary index based on the artist name and the album title:**
 
 ```
 aws dynamodb query \
@@ -124,7 +124,7 @@ aws dynamodb query \
     --expression-attribute-values  '{":v_artist":{"S":"Iron Maiden"},":v_title":{"S":"Fear of the Dark"} }'
 ```
 
-**- Searching item by secondary index based on song title and year:**
+- **Searching item by secondary index based on song title and year:**
 
 ```
 aws dynamodb query \
