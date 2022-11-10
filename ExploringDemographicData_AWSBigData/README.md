@@ -5,7 +5,7 @@
 
 ### Description:
 
-Explore the power of SQL in a fully managed BigData tool on AWS, Amazon Athena. 
+Explore the power of SQL in a fully managed Big Data tools on AWS. 
 
 Project requirements: 
  - Amazon S3
